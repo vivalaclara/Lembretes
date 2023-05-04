@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Lalezar';
+    src: url('./content/Lalezar-Regular.ttf') format('truetype');
+
+  }
+
+  @font-face {
+    font-family: 'Roboto';
+    src: url('./content/Roboto-Regular.ttf') format('truetype');
+ 
+  }
